@@ -1,8 +1,8 @@
 {
-  "name": "45_l_react_app",
+  "name": "45_react_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nastyalisa.github.io/45_l_react-app",
+  "homepage": "https://nastyalisa.github.io/45_react-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -20,7 +20,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build/static"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
